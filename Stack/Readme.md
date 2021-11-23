@@ -17,3 +17,11 @@
 - https://leetcode.com/problems/basic-calculator/
 - https://leetcode.com/problems/basic-calculator-ii/
 - https://leetcode.com/problems/longest-valid-parentheses/
+
+## Day - 3
+
+- https://leetcode.com/problems/design-browser-history/
+- https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+- https://leetcode.com/problems/build-an-array-with-stack-operations/
+- https://leetcode.com/problems/baseball-game/
